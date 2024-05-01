@@ -14,4 +14,4 @@ Based on the iPhone launch video (link below), use a UML tool of your choice to 
 
 ----------
 ## Diagram
-<p align="center"><img src="/docs/projetoIphone.png"></p>
+<p align="center"><img src="https://github.com/samanthamaiaduarte/iphone-project/blob/main/docs/projetoIphone.drawio.png"></p>
